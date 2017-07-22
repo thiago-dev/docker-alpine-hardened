@@ -1,5 +1,5 @@
-FROM alpine:3.4
-MAINTAINER Yun Zhi Lin <yun@yunspace.com>
+FROM  arm32v6/alpine:3.6
+MAINTAINER Thiago <thiago-dev902@outlook.com>
 
 RUN apk add --update duo_unix
 
