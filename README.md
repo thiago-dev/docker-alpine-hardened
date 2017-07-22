@@ -1,6 +1,6 @@
-# Alpine Hardened Image
+# Alpine Hardened Image for Raspberry Pi
 
-A hardened alpine linux image based on [jumanjiman/harden.sh](https://gist.github.com/jumanjiman/f9d3db977846c163df12) 
+A hardened alpine linux image based on [microversecloud/docker-alpine-hardened](https://github.com/microversecloud/docker-alpine-hardened) 
 
 Inspired by: 
 - https://github.com/gliderlabs/docker-alpine/issues/101
